@@ -12,7 +12,7 @@ import (
 )
 
 // Namespace is the key to use to store and access the custom config data
-const Namespace = "github.com/devopsfaith/krakend-httpcache"
+const Namespace = "github.com/Yasir-Alawa/krakend-httpcache"
 
 var (
 	memTransport = httpcache.NewMemoryCacheTransport()
