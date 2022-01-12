@@ -4,7 +4,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/gregjones/httpcache"
+  name = "github.com/Yasir-Alawa/httpcache"
 
 [[constraint]]
   branch = "master"
