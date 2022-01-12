@@ -4,13 +4,13 @@ package httpcache
 import (
 	"context"
 	"net/http"
-
+	"fmt"
 	"github.com/Yasir-Alawa/httpcache"
 	"github.com/luraproject/lura/config"
 	"github.com/luraproject/lura/proxy"
 	"github.com/luraproject/lura/transport/http/client"
 )
-
+fmt.Println("------Print a message--------")
 // Namespace is the key to use to store and access the custom config data
 const Namespace = "github.com/devopsfaith/krakend-httpcache"
 
