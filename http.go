@@ -5,7 +5,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/gregjones/httpcache"
+	"github.com/Yasir-Alawa/httpcache"
 	"github.com/luraproject/lura/config"
 	"github.com/luraproject/lura/proxy"
 	"github.com/luraproject/lura/transport/http/client"
